@@ -1,0 +1,23 @@
+{
+  "name": "confessbot",
+  "version": "1.0.0",
+  "description": "A Confess Bot",
+  "main": "index.ts",
+  "scripts": {
+    "test": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFika/Confess-Whatsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFika/Confess-Whatsapp/issues"
+  },
+  "homepage": "https://github.com/iFika/Confess-Whatsapp#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "baileys": "github:WhiskeySockets/Baileys"
+  }
+}
