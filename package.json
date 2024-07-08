@@ -18,6 +18,7 @@
   "homepage": "https://github.com/iFika/Confess-Whatsapp#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.5",
-    "baileys": "github:WhiskeySockets/Baileys"
+    "baileys": "github:WhiskeySockets/Baileys",
+    "qrcode-terminal": "^0.12.0"
   }
 }
